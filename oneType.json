@@ -1,0 +1,499 @@
+[
+  {
+    "url": "online-company-registration",
+    "hidetars": true,
+    "incorpkommunicateBot": true,
+    "criteoscript": true,
+    "hidewebengage": true,
+    "testvariantA2": true,
+    "testvariantAnew": true,
+    "testvariantformpvt": true,
+    "newvariant": true,
+    "newMobileContent": true,
+    "pvttestimonial": true,
+    "ptltestimonial": true,
+    "tileCartPage": true,
+    "bannerHeaderBlack": true,
+    "linkedInScript": true,
+    "hideStateField": false,
+    "secondformtitle": "Register your company today",
+    "pageTitle": "Private Company Registration | Online Incorporation India",
+    "canonical": true,
+    "canonicalUrl": "online-company-registration",
+    "meta": {
+      "keyword": "Company incorporation, registration of company, company registration in india , private limited company registration.",
+      "description": "Get your Pvt Ltd Company Registered in 14 days! We take care of A-Z of your company incorporation. All you need to do is give the required details & documents."
+    },
+    "whatsappOptin": true,
+    "mobileContent": {
+      "title": "Private Company Registration in just 7 Days",
+      "subTitle": "Register your company with India's leading platform at just ₹1000 (govt fees + taxes extra). Leave it to the experts to incorporate your company.",
+      "clickSpan": "",
+      "subText": "",
+      "termsAndCondition": {
+        "title": "Terms & Conditions",
+        "list": [
+          {
+            "text": "The company will be registered in 7 days if",
+            "items": [
+              "Business Name, Objectives & Significance are shared",
+              "Digital signature documents & Video verification are completed",
+              "All required documents are provided and validated"
+            ]
+          }
+        ]
+      },
+      "docLists": {
+        "title": "",
+        "list": [
+          {
+            "header": "Documents Required from Directors, Shareholders",
+            "items": [
+              "Pan Card Copy (Mandatory)",
+              "ID Proof (Any one) – Driving License/ Voter ID/ Passport Copy/ Aadhaar Card",
+              "Address Proof – Latest Bank Statement/ Latest Telephone or Mobile Bill/ Latest Electricity Bill.(MUST be less than 30 days old)",
+              "Passport Size Photograph"
+            ]
+          },
+          {
+            "header": "Documents Required for Registered Office Address",
+            "items": [
+              "NOC - No Objection Certificate from the Owner of the Property",
+              "Address Proof - Latest Telephone Bill or Mobile Bill/ Gas Bill/ Electricity Bill (MUST be less than 30 days old)"
+            ]
+          }
+        ]
+      }
+    },
+    "content": {
+      "serviceId": "1",
+      "title": "Private Company Registration in just 7 Days",
+      "titleTwo": "",
+      "subTitle": "Register your company with India's leading platform at just ₹1000 (govt fees + taxes extra). Leave it to the experts to incorporate your company.",
+      "goToDocumentList": "",
+      "subcontent": "",
+      "subcontent2": "",
+      "formTitle": "Register Company",
+      "menus": [
+        {
+          "title": "Overview",
+          "href": "#section1"
+        },
+        {
+          "title": "Benefits",
+          "href": "#section2"
+        },
+        {
+          "title": "Checklist",
+          "href": "#section3"
+        },
+        {
+          "title": "How to Register?",
+          "href": "#section4"
+        },
+        {
+          "title": "Documents required",
+          "href": "#section5"
+        },
+        {
+          "title": "Why Vakilsearch",
+          "href": "#section6"
+        },
+        {
+          "title": "The Glossary",
+          "href": "#section7"
+        },
+        {
+          "title": "FAQs",
+          "href": "#section8"
+        }
+      ],
+      "summary": {
+        "title": "Your Private Limited Company with Vakilsearch",
+        "description": "Registering a Company is quick, easy, and can be done online with Vakilsearch in 3 simple steps:",
+        "steps": [
+          {
+            "title": "",
+            "description": "We help you register your directors with the Ministry of Corporate Affairs (MCA).",
+            "sign": "https://assets.vakilsearch.com/live-images/website_revamp/new-service-step3.svg"
+          },
+          {
+            "title": "",
+            "description": "We help you pick the right company name.",
+            "sign": "https://assets.vakilsearch.com/live-images/website_revamp/new-service-step2.svg"
+          },
+          {
+            "title": "",
+            "description": "We draft and file the documents required for your company registration (MoA and AoA).",
+            "sign": "https://assets.vakilsearch.com/live-images/website_revamp/new-service-step1.svg"
+          }
+        ]
+      },
+      "sections": [
+        [
+          {
+            "title": "Online Company Registration in India - An Overview",
+            "href": "section1",
+            "text": "Setting up a private limited company is one of the highly recommended ways to start a business in India. This type of company offers limited liability for its shareholders with certain restrictions placed on the ownership. An LLP has partners, who own and manage the business. Whereas in private limited company registration, directors may be different from shareholders."
+          },
+          {
+            "text": "Vakilsearch, your trusted legal advisor, provides a cost-effective company registration service in India. You may learn how to register your business here. We take care of all legal formalities and fulfill the compliances, as defined by the Ministry of Corporate Affairs. Post-approval of the company registration process, you receive a Certificate of Incorporation (CoI), along with PAN and TAN. Now, you can open a current bank account and begin your business operations."
+          }
+        ],
+        [
+          {
+            "title": "Benefits of Company Registration",
+            "href": "section2",
+            "text": "Registering a company offers many benefits. A registered company increases the authenticity of your business. It helps your business:",
+            "items": "Shield from personal liability and protects from other risks and losses | Attract more customers | Procure bank credits and good investment from reliable investors with ease | Offers liability protection to protect your company’s assets | Greater capital contribution and greater stability | Increases the potential to grow big and expand"
+          }
+        ],
+        [
+          {
+            "title": "Checklist for Registering a Company in India",
+            "href": "section3",
+            "text": "As defined by the Companies Act 2013, we must guarantee that the checklist requirements are met."
+          },
+          {
+            "heading": "Two Directors:",
+            "text": "A private limited company must have at least two directors, with a maximum of fifteen. A minimum of one of the company's directors must be a resident of India."
+          },
+          {
+            "heading": "Unique Name",
+            "text": "The name of your business must be unique. The suggested name should not match with any existing companies or trademarks in India."
+          },
+          {
+            "heading": "Minimum Capital Contribution:",
+            "text": "There is no minimum capital amount for a company. A company should have an authorized capital of at least ₹1 lakh."
+          },
+          {
+            "heading": "Registered Office:",
+            "text": "The registered office of a company does not have to be a commercial space. Even a rented home can be the registered office, so long as an NOC is obtained from the landlord."
+          }
+        ],
+        [
+          {
+            "title": "How to Register a Company Online - the Registration Process",
+            "href": "section4",
+            "text": "Company registration in India benefits startups since it offers them an advantage over those who have not registered. The process of registering your company is complex and involves many compliances. However, you needn’t worry as long as you have Vakilsearch as our professionals can help you with every step of the private limited company registration process.",
+            "items": "<b>Step 1</b>: Obtain DSC | <b>Step 2</b>: Apply for the DIN | <b>Step 3</b>: Application for the name availability| <b>Step 4</b>: Submission of MoA and AoA to register a private limited company| <b>Step 5</b>: Apply for the PAN and TAN of the company| <b>Step 6</b>: RoC issues a certificate of incorporation with a PAN and TAN"
+          }
+        ],
+        [
+          {
+            "title": "Documents Required for Online Company Registration",
+            "href": "section5",
+            "text": "In India, private limited company registration cannot be done without proper identity and address proof. Listed below are the documents accepted by the MCA for the online company registration process:"
+          },
+          {
+            "heading": "Identity and Address Proof",
+            "items": "Scanned copy of PAN card or passport (foreign nationals & NRIs) | Scanned copy of voter ID/passport/driving licence | Scanned copy of the latest bank statement/telephone or mobile bill/electricity or gas bill | Scanned passport-sized photograph specimen signature (blank document with signature [directors only])"
+          },
+          {
+            "heading": "Registered Office Proof",
+            "items": "Scanned copy of the latest bank statement/telephone or mobile bill/electricity or gas bill | Scanned copy of notarized rental agreement in English | Scanned copy of no-objection certificate from the property owner | Scanned copy of sale deed/property deed in English (in case of owned property)"
+          },
+          {
+            "text": "<b>Note:</b> Your registered office need not be a commercial space; it can be your residence too."
+          }
+        ],
+        [
+          {
+            "title": "Why Vakilsearch?",
+            "href": "section6",
+            "text": "The private limited company registration process is completely online, so you don't even have to leave your home to get your entity registered. At Vakilsearch, we complete the registration process within 14 days."
+          },
+          {
+            "heading": "Vakilsearch company registration package includes:",
+            "items": "DIN and DSC for two Directors | Drafting of MoA & AoA | Registration fees and stamp duty | Company incorporation certificate | Company PAN and TAN | Zero balance current account - Powered by DBS bank"
+          },
+          {
+            "text": "With this, you will be well on your way to forming your own private limited company. It is recommended that you consult with the experts and make the finest decision for smoother growth."
+          }
+        ],
+        [
+          {
+            "title": "The Glossary",
+            "href": "section7",
+            "heading": "Amendment",
+            "text": "An addition to, deletion from, or a change of existing provisions of the articles of incorporation of a domestic corporation."
+          },
+          {
+            "heading": "Board of Directors",
+            "text": "The governing body of a corporation who is elected by shareholders. The directors are responsible for selecting the officers and the supervision and general control of the corporation."
+          },
+          {
+            "heading": "Certificate of Incorporation",
+            "text": "The title of the document filed in many states to create a corporation. Also known as the articles of incorporation."
+          },
+          {
+            "heading": "DSC",
+            "text": "The DSC (Digital Signature Certificate) is an instrument issued by certifying authorities by which you can sign electronic documents. As all documents needed are electronic."
+          },
+          {
+            "heading": "DIN",
+            "text": "Director Identification Number"
+          },
+          {
+            "heading": "Dissolution",
+            "text": "The statutory procedure that terminates the existence of a domestic corporation."
+          },
+          {
+            "heading": "Incorporation",
+            "text": "The act of creating or organizing a corporation under the laws of a specific jurisdiction."
+          },
+          {
+            "heading": "Limited Liability Company (LLC)",
+            "text": "An artificial entity created under and governed by the laws of the jurisdiction in which it was formed. Limited liability companies are generally able to provide the limited personal liability of corporations and the pass-through taxation of partnerships."
+          },
+          {
+            "heading": "Limited Personal Liability",
+            "text": "The protection generally afforded a corporate shareholder, limited partner or a member of a limited liability company from the debts of and claims against the company."
+          },
+          {
+            "heading": "Name Reservation",
+            "text": "A procedure that allows a company to obtain exclusive use of a corporate name for a specified period of time."
+          },
+          {
+            "heading": "Registered Office",
+            "text": "The statutory address of a corporation. In states requiring the appointment of a registered agent, it is usually the address of the registered agent."
+          }
+        ]
+      ],
+      "faqs": [
+        {
+          "question": "What are the rules for picking a name for a private limited company?",
+          "answer": "The registrar of companies (RoC) across India expect applicants to follow a few naming guidelines. Some of them are subjective, which means that approval can depend on the opinion of the officer handling your application. However, the more closely you follow the rules listed below, the better your chances of approval. First, however, do ensure that your name is available."
+        },
+        {
+          "question": "How much time is needed for setting up a private limited company in India?",
+          "answer": " If you have all the documents in order, it will take no longer than 15 days. However, this is dependent on the workload of the registrar."
+        },
+        {
+          "question": "Do I need to be physically present during this process?",
+          "answer": "No, new company registration is a fully online process. As all documents are filed electronically, you would not need to be physically present at all. You would need to send us scanned copies of all the required documents & forms."
+        },
+        {
+          "question": "What documents are required to complete the process?",
+          "answer": "All directors must provide identity and address proof, as well as a copy of the PAN card (for Indian nationals) and passport (for foreign nationals). No-objection certificate must be submitted by the owner of the registered office premises."
+        },
+        {
+          "question": "Does a private limited company have continuous existence?",
+          "answer": "Yes, so long as the annual compliances are met, the private limited company will continue to exist. If you do not comply with the requirements, it will go dormant, until it is struck off the register altogether."
+        },
+        {
+          "question": "Is it necessary to have a company’s books audited?",
+          "answer": "Yes, a private limited company must hire an auditor, no matter what its revenues. In fact, an auditor must be appointed within 30 days of incorporation. Compliance is important with a private limited company, given that penalties for non-compliance can run into lakhs of rupees and even lead to the blacklisting of directors."
+        },
+        {
+          "question": "What are articles of association and memorandum of association?",
+          "answer": "These documents contain the rules, vision and mission of your organisation, and define, among other things, the exact business and the roles and responsibilities of shareholders and directors."
+        },
+        {
+          "question": "Are two directors necessary for a private limited company registration?",
+          "answer": "Yes, a minimum of two directors are needed for a private limited company. The maximum members can be 200. You can register as a one person company, if you are the sole owner of the company."
+        },
+        {
+          "question": "What is the minimum capital needed to form a private limited company?",
+          "answer": "There is no minimum capital required for starting a private limited company."
+        },
+        {
+          "question": "Can the director of a private limited company be a salaried person?",
+          "answer": " Yes, a salaried person can become the director in a private limited, LLP or OPC private limited company. One needs to check the employment agreement if that allows for such provisions. In a lot of cases, the employers are quite comfortable with the fact that their employee is a director in another company."
+        },
+        {
+          "question": "Can the limited liability partnership (LLP) be converted to a private limited company?",
+          "answer": "No, one cannot convert an LLP into a private limited company as it is not a MCA. The LLP Act, 2008 and the Companies Act, 2013, both don’t have any provisions on conversion of the LLP in a private limited company. However, if one wants to expand their business they can register a new private limited company with the same name. The LLP company needs to just issue a no objection certificate."
+        },
+        {
+          "question": "What is the time taken by Vakilsearch in forming a private limited company?",
+          "answer": "Vakilsearch can integrate a private limited company in 14-15 days. The time taken also depends on the relevant documents provided by the applicant and the speed of approvals from the government. To ensure a speedy registration, kindly pick a unique name as the proposed company name and also ensure that you have all the required documents prior to the starting of the registration process."
+        },
+        {
+          "question": "Can one register a private limited company on their home address?",
+          "answer": "Yes, the company can be registered at the owner's home address. A copy of the utility bill is required to be submitted."
+        },
+        {
+          "question": "If there are no partners available, then can one register their family members in the company?",
+          "answer": "Yes, it is good to register a family member as a partner. At a later stage one can change this or transfer shares of the directors."
+        },
+        {
+          "question": "Does one have to be present in person for the incorporation of a private limited company?",
+          "answer": "The entire procedure is done online and one does not have to be present at our office or any other place for the incorporation. A scanned copy of the documents has to be sent via mail. They get the company incorporation certificate from the MCA via courier at the business address."
+        },
+        {
+          "question": "Can NRIs/foreign nationals become directors in a private limited company?",
+          "answer": "Yes, a NRI or a foreign national can become a director of a private limited company. He or she must obtain a DIN from the Indian RoC. They can also hold a controlling stake in the company. As long as at least one director on the board of directors is an Indian resident."
+        }
+      ],
+      "testimonials": [
+        {
+          "name": "Ramesh Reddy",
+          "text": "&ldquo;FANTASTIC is the word that describes the service experience that I have received from VAKILSEARCH. Initially, I had very little idea about the whole company registration process but the team at Vakilsearch literally took care of everything, explained the process in detail, gave suggestions on which type of company incorporation suits my business and also cleared all my doubts. Customer relationship team is really polite & prompt in responding to all my queries.&rdquo;"
+        },
+        {
+          "name": "Preethi Srivastava",
+          "text": "&ldquo;I was on the lookout for legal service assistance to register my Startup. That’s when I came across Vakilsearch.com from my Google search. They made the whole process of registering my company as an easy one than I expected. From explaining the process of company registration to answering all my queries, they are very polite. HIGHLY RECOMMENDED!!&rdquo;"
+        },
+        {
+          "name": "Manjunath P.C.",
+          "text": "&ldquo;VAKILSEARCH - The best legal service provider so far I’ve ever encountered. It all started with registering my business with their guidance. From the very first interaction, they made me feel comfortable about the whole process of company registration. They explained everything in detail and put me in touch with the respective team who kept me informed time to time and helped to get my application processed without any delay. They made sure every stage of the process is transparent.&rdquo;"
+        },
+        {
+          "name": "Raman Singh",
+          "text": "&ldquo;Legal is definitely made simple with Vakilsearch. The service and support they provided throughout the process of registering my company are more satisfying. They kept us away from all the complexities of company registration, by guiding us at every step. They’re very methodical in their disposition. It’s truly a new generation legal service team.&rdquo;"
+        },
+        {
+          "name": "Akhil Mohan",
+          "text": "&ldquo;We were looking for an easy and hassle-free company registration service. That's when we came across VAKILSEARCH. They were very prompt in replying and taking our request. Their team is professional and has good experience in the company registration process. Highly recommended for a quick and economical option for all legal services.&rdquo;"
+        }
+      ],
+      "serviceTypes": {
+        "title": "Types of Government Registrations",
+        "rows": [
+          "Recommended For",
+          "Ease of Accommodating Investment",
+          "Limited Liability Protection",
+          "Tax Advantages",
+          "Perpetual Existence",
+          "Statutory Compliances"
+        ],
+        "cols": [
+          " Private Limited Company ",
+          " Limited Liability Partnership ",
+          " One Person Company ",
+          " Partnership Firm ",
+          " Sole Proprietorship "
+        ],
+        "values": [
+          [
+            "Start-ups and growing companies",
+            "Very easy to accommodate",
+            "Yes",
+            "Few benefits",
+            "Yes",
+            "High"
+          ],
+          [
+            "Professional services firms",
+            "Possible, but unlikely",
+            "Yes",
+            "Most efficient",
+            "Yes",
+            "Low"
+          ],
+          [
+            "Sole promoters",
+            "Possible, but severely unlikely ",
+            "Yes",
+            "Few benefits",
+            "Yes",
+            "High"
+          ],
+          [
+            "Home businesses",
+            "Almost impossible",
+            "No",
+            "Minimal",
+            "No",
+            "Minimal"
+          ],
+          [
+            "Small traders and manufacturers",
+            "Impossible",
+            "No",
+            "Minimal",
+            "No",
+            "Minimal"
+          ]
+        ],
+        "links": [
+          "",
+          "/llp-registration-india",
+          "/one-person-company-opc-in-india",
+          "/partnership-firm",
+          "/proprietorship-registration-india-sole-proprietorship"
+        ]
+      },
+      "additionBannerContent": {
+        "spanclick": true,
+        "spanclickcontent": {
+          "tables": [
+            {
+              "header_title": "Pvt Ltd Company Charges & Fees",
+              "sub_headline": "",
+              "rows": ["Break Up", "Amount"],
+              "columns": [
+                ["DSC for 2 (₹1000*2)", "₹2,000"],
+                ["Name Approval Fees (Paid to Govt)", "₹1,000"],
+                ["PAN & TAN Fees", "₹200"],
+                ["Courier Charges", "₹200"],
+                ["Stamp & Notary Fees", "Varies by State"],
+                ["GST 18%", "₹396"],
+                ["<b>Grand Total</b>", "<b>₹3,796 + Stamp & Notary Fees<b>"]
+              ]
+            },
+            {
+              "header_title": "Stamp & Notary Fees for 1 Lakh Capital",
+              "sub_headline": "",
+              "rows": ["State", "Fees"],
+              "columns": [
+                ["Andaman & Nicobar", "₹520"],
+                ["Andhra Pradesh", "₹1,520"],
+                ["Arunachal Pradesh", "₹710"],
+                ["Assam", "₹525"],
+                ["Bihar", "₹1,600"],
+                ["Chandigarh", "₹1,503"],
+                ["Chhattisgarh", "₹1,510"],
+                ["Dadra and Nagar Haveli", "₹41"],
+                ["Daman and Diu", "₹1,170"],
+                ["Goa", "₹1,200"],
+                ["Gujarat", "₹620"],
+                ["Haryana", "₹135"],
+                ["Himachal Pradesh", "₹123"],
+                ["Jammu Kashmir", "₹310"],
+                ["Jharkhand", "₹173"],
+                ["Karnataka", "₹2,020"],
+                ["Kerala", "₹3,025"],
+                ["Lakshadweep", "₹1,525"],
+                ["Madhya Pradesh", "₹7,550"],
+                ["Maharashtra", "₹1,300"],
+                ["Manipur", "₹260"],
+                ["Meghalaya", "₹410"],
+                ["Mizoram", "₹260"],
+                ["Nagaland", "₹260"],
+                ["New Delhi", "₹360"],
+                ["Orissa", "₹610"],
+                ["Pondicherry", "₹510"],
+                ["Punjab", "₹10,025"],
+                ["Rajasthan", "₹1,010"],
+                ["Sikkim", "We do not register"],
+                ["Tamil Nadu", "₹520"],
+                ["Telengana", "₹1,520"],
+                ["Tripura", "₹260"],
+                ["Uttar Pradesh", "₹1,010"],
+                ["Uttarakhand", "₹1,010"],
+                ["West Bengal", "₹370"]
+              ]
+            }
+          ]
+        }
+      },
+      "tarsbotScript": "4yMcf5",
+      "hideformfields": true,
+      "citywidth": true,
+      "hidelangfield": "NA",
+      "nofreeconsultation": true,
+      "newbanner": false,
+      "newcontentgst": true,
+      "subheading4": "",
+      "submitbtn": "Get Started Now!",
+      "legalbtn": "",
+      "moreDetailsnew": "",
+      "video": "https://www.youtube.com/embed/jk8MxvjHyYE?autoplay=1"
+    },
+    "dashboardtm": true,
+    "languages": [],
+    "youtubelitevideo": "jk8MxvjHyYE"
+  }
+]

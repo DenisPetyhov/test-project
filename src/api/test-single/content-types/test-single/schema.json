@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "test_singles",
+  "info": {
+    "singularName": "test-single",
+    "pluralName": "test-singles",
+    "displayName": "testSingle"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "test": {
+      "type": "string"
+    }
+  }
+}

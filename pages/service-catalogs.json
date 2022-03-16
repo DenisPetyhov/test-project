@@ -1,0 +1,758 @@
+[
+	{
+		"url": "start-a-business",
+		"title": "Start a Business Online",
+		"name": "Start a Business",
+		"meta": {
+			"keyword": "start a business, company registration online, register a company, register business in india, company incorporation",
+			"description": "Register your company in India within 15 days. Company registration process can be completed online at lowest cost. ✓EMI available."
+		},
+		"contents": [
+			{
+				"desc": "Starting a business in India takes 15 to 30 days, depending on whether you choose a private limited company, one-person company (OPC), limited liability partnership (LLP), partnership or sole proprietorship. The key factors to base your decision on are the funding support the business structure provides, start-up costs, the compliance work involved and the tax advantages offered."
+			}
+		],
+		"banner_url": "https://assets.vakilsearch.com/live-images/website_revamp/start-a-business-bg.jpg",
+		"image": true,
+		"service_cards": [
+			{
+				"image": "company-registration.jpg",
+				"title": "Company Registrations",
+				"description": "The best option for start-ups, as it is the only business structure that can raise funding from venture capitalists. An added bonus is that promising employees can also be given equity stake in a company via ESOPs.",
+				"link": "/online-company-registration"
+			},
+			{
+				"image": "llp-registration.jpg",
+				"title": "LLP Registration",
+				"description": "The LLP has the same set-up as a partnership firm, but many of the advantages of a private limited company. It is also cheaper to start and fewer compliances.",
+				"link": "/llp-registration-india"
+			},
+			{
+				"image": "one-person-company.jpg",
+				"title": "OPC Registration",
+				"description": "An OPC, as the name indicates, has just one partner, but enjoys nearly all the advantages of a private limited company (though raising funds would be tough). A major drawback, however, is that it must be converted into a private or public limited company in case revenues cross Rs. 3 crore.",
+				"link": "/one-person-company-opc-in-india"
+			},
+			{
+				"image": "general-partnership.jpg",
+				"title": "General Partnership",
+				"description": "All it needs is a partnership deed that does not even need to be registered. A good option for home-based businesses, particularly while starting out.",
+				"link": "/partnership-firm"
+			},
+			{
+				"image": "sole-proprietorship.jpg",
+				"title": "Sole Proprietorship",
+				"description": "Small businesses with little to no risk can run in the name of the owner itself. You can simply pick from one of many government registrations that apply to your business to get started.",
+				"link": "/proprietorship-registration-india-sole-proprietorship"
+			}
+		],
+		"tarsbotScript": "rkOo3E",
+		"languages": [
+			"hindi"
+		]
+	},
+	{
+		"url": "tax-registrations-and-filings",
+		"title": "Tax Registrations and Filings",
+		"name": "Tax Registrations and Filings",
+		"meta": {
+			"keyword": "tax registration online, tax filings online, government registration online, vat registration, service tax registration, importer exporter code, professional tax registration.",
+			"description": "Each business goes through various government registration and documenting process. We, at Vakilsearch, extend our complete support for all your legal needs."
+		},
+		"contents": [
+			{
+				"desc": "All businesses need one government registration or another, while nearly all require multiple registrations. For example, even air-conditioned restaurants need both service tax registration and VAT registration, depending on turnover and location, in addition to a Shops & Establishment License."
+			},
+			{
+				"desc": "Indirect taxes are those that are collected from customers by suppliers on behalf of the government. Once these taxes are paid to government, a proper record needs to be submitted periodically."
+			}
+		],
+		"banner_url": "https://assets.vakilsearch.com/live-images/website_revamp/tax-registration-bg.jpg",
+		"image": false,
+		"service_cards": [
+			{
+				"image": "noimage",
+				"title": "Goods and Service Tax",
+				"description": "GST is the all-in-one tax that covers all businesses, whether service or manufacturing. Get a Goods and Service Tax Registration in the shortest possible time with Vakilsearch.",
+				"link": "/online-gst-registration"
+			},
+			{
+				"image": "noimage",
+				"title": "Profession Tax Registration",
+				"description": "Applicable in most states in south, central and western India, a profession tax registration is required within 30 days of hiring an employee.",
+				"link": "/professional-tax"
+			},
+			{
+				"image": "noimage",
+				"title": "Importer-Exporter Code",
+				"description": "An importer-exporter code is necessary for any import-export business. It can be approved within 10 days and has lifetime validity.",
+				"link": "/import-export-code"
+			},
+			{
+				"image": "noimage",
+				"title": "Shops & Establishment License",
+				"description": "Any shop or commercial establishment, including businesses of all kinds, must have a shops and establishments license for the space from which their operation runs.",
+				"link": "/shop-and-establishment-license"
+			},
+			{
+				"image": "noimage",
+				"title": "SSI/MSME Registration",
+				"description": "One of the easiest government registrations to avail of, it gives small businesses, both service and manufacturing, the chance to avail of tax exemptions and subsidies on essentials like power and banking services.",
+				"link": "/online-udyog-aadhar-registration"
+			}
+		],
+		"tarsbotScript": "rkOo3E"
+	},
+	{
+		"url": "trademark-and-copyright",
+		"title": "Trademark and Copyright",
+		"name": "Trademark and Copyright",
+		"meta": {
+			"keyword": "trademark registration, copyright registration, permanent patent, trademark objection, trademark renewal, intellectual property, get trademark online",
+			"description": "Get your trademark and copyright registration done online. Trademark and copyright registration process can be completed easily online at lowest cost. ✓EMI available."
+		},
+		"contents": [
+			{
+				"desc": "A trademark is any unique expression related to a product or service that distinguishes it from other. It can be a brand name, logo, slogan, even a sound or smell. It can be bought, sold, transferred or renewed."
+			},
+			{
+				"desc": "A copyright is an exclusive right granted to an author over his/her work. Any audio/visual work can be copyrighted, from books, music, graphic design and movies to photographs, choreography, website design and even software code."
+			}
+		],
+		"banner_url": "https://assets.vakilsearch.com/live-images/website_revamp/trademark-bg.jpg",
+		"image": false,
+		"service_cards": [
+			{
+				"image": "noimage",
+				"title": "Trademark Registration",
+				"description": "Within three days of submitting an application, you can use the TM symbol alongside your brand name. This will ensure that no other business can register the same or similar brand name.",
+				"link": "/online-trademark-registration"
+			},
+			{
+				"image": "noimage",
+				"title": "Trademark Objection",
+				"description": "The Intellectual Property department has an objection against most brand names. All you need is lawyers to respond to this objection within 30 days.",
+				"link": "/trademark-objection"
+			},
+			{
+				"image": "noimage",
+				"title": "Trademark Renewal",
+				"description": "Trademarks have a validity of 10 yea Once this time is up, they need to be renewed. If you do not renew the trademark, the IP department will eventually strike it off the register.",
+				"link": "/trademark-renewal"
+			},
+			{
+				"image": "noimage",
+				"title": "Trademark Assignment",
+				"description": "Before transferring trademark rights to another party, an agreement must be signed and registered.",
+				"link": "/trademark-assign"
+			},
+			{
+				"image": "noimage",
+				"title": "Copyright Registration",
+				"description": "You can start using the copyright symbol even before you apply for registration, which will take up to 18 months to be approved.",
+				"link": "/copyright-registration"
+			},
+			{
+				"image": "noimage",
+				"title": "Patent Search",
+				"description": "Before you go ahead and apply for a patent, it is sensible to check if the patent has been granted to another person or entity. For this, a patent attorney would need to go through the entire patent database.",
+				"link": "/patent-search"
+			},
+			{
+				"image": "noimage",
+				"title": "Permanent Patent",
+				"description": "A patent isn’t easily approved, as it needs to be unique to any other creation, have commercial application and not be an obvious extension of an existing technology. A two-year process is normal.",
+				"link": "/permanent-patent"
+			},
+			{
+				"image": "noimage",
+				"title": "Provisional Patent",
+				"description": "Even before you’ve built your invention, you can apply for a patent, provided you are within 12 months of completing it.",
+				"link": "/provisional-patent"
+			}
+		],
+		"tarsbotScript": "rkOo3E"
+	},
+	{
+		"url": "fund-raising-investments",
+		"title": "Fundraising Services",
+		"name": "Fund Raising Investments",
+		"meta": {
+			"keyword": "Fundraising",
+			"description": "Fundraising Investments in India"
+		},
+		"contents": [
+			{
+				"desc": "Avail the best fund-raising services to scale up your business. We will optimize your fundraising idea and connect you with potential venture capitalists, private equity firms, banks, and financial institutions. We offer unparalleled training, support, and counselling to help you raise the optimum fund in a hassle-free manner."
+			}
+		],
+		"banner_url": "https://assets.vakilsearch.com/live-images/website_revamp/start-a-business-bg.jpg",
+		"image": false,
+		"service_cards": [
+			{
+				"image": "noimage",
+				"title": "Share Purchase Agreement",
+				"description": "An agreement between two parties in which the seller agrees to sell the stated number of shares to the buyer at a particular price.",
+				"link": "/share-purchase-agreement"
+			},
+			{
+				"image": "noimage",
+				"title": "Shareholders' Agreement",
+				"description": "An agreement governing shareholder rights and obligations, transfer of shares, how the company is going to be run and how important decisions are to be finalised.",
+				"link": "/shareholders-agreement"
+			},
+			{
+				"image": "noimage",
+				"title": "Term Sheet",
+				"description": "A term sheet reflects the broad consensus of two parties on material terms and conditions of a deal.",
+				"link": "/term-sheet"
+			},
+			{
+				"image": "noimage",
+				"title": "Founders' Agreement",
+				"description": "An agreement to outline all the important aspects of the relationship between the founders.",
+				"link": "/founders-agreement"
+			}
+		],
+		"tarsbotScript": "rkOo3E"
+	},
+	{
+		"url": "legal-documentation",
+		"title": "Legal Documentation",
+		"name": "Legal Documentation",
+		"meta": {
+			"keyword": "legal documentation, legal notice, term sheet, founders' agreement, employment agreement, rental agreement online, terms of Service and privacy policy online",
+			"description": "Get your contracts and legal documentation services for business online. Legal Documentation can be completed easily online at lowest cost. EMI available."
+		},
+		"contents": [
+			{
+				"desc": "All businesses must have contracts in place for every deal they enter into, both internally (with employees, for example) and externally (with vendors and business partners)."
+			}
+		],
+		"banner_url": "https://assets.vakilsearch.com/live-images/website_revamp/legal-and-compliance-bg.jpg",
+		"image": false,
+		"service_cards": [
+			{
+				"image": "noimage",
+				"title": "Legal Notice",
+				"description": "A formal communication to a person or entity informing him that you intend to undertake legal proceedings against him.",
+				"link": "/legal-notice"
+			},
+			{
+				"image": "noimage",
+				"title": "Employment Agreement",
+				"description": "An employment contract is necessary when hiring any employee or consultant, whether part-time of permanent.",
+				"link": "/employment-agreement"
+			},
+			{
+				"image": "noimage",
+				"title": "Consultancy Agreement",
+				"description": "An agreement that stipulates job requirements, time for completion, mode of payment and all other aspects related to the consultant.",
+				"link": "/consultancy-agreement"
+			},
+			{
+				"image": "noimage",
+				"title": "Freelancer Agreement",
+				"description": "An agreement that stipulates job requirements, time for completion, mode of payment and all other aspects related to the freelancer.",
+				"link": "/freelancer-agreement"
+			},
+			{
+				"image": "noimage",
+				"title": "Memorandum of Understanding",
+				"description": "A contractual agreement in which two parties, a client and service provider, agree to terms and conditions that are to govern all transactions between them for the long-term.",
+				"link": "/memorandum-of-understanding"
+			},
+			{
+				"image": "noimage",
+				"title": "Franchise Agreement",
+				"description": "An agreement wherein the franchisor agrees to lend the trade name or business system to another person or entity (the franchisee).",
+				"link": "/franchise-agreement"
+			},
+			{
+				"image": "noimage",
+				"title": "Joint Venture Agreement",
+				"description": "Such an agreement is legally binding and clearly lays down the areas of cooperation and divergence, and makes provisions for profit-sharing and operations.",
+				"link": "/joint-venture-agreement"
+			},
+			{
+				"image": "noimage",
+				"title": "Non-Disclosure Agreement",
+				"description": "An NDA is a legal contract stating that certain information is confidential, and the extent to which its disclosure is restricted to third parties.",
+				"link": "/non-disclosure-agreement-nda"
+			},
+			{
+				"image": "noimage",
+				"title": "Gift Deed",
+				"description": "The lawful owner of a property can transfer it to another party without any monetary consideration through a gift deed.",
+				"link": "/gift-deed"
+			},
+			{
+				"image": "noimage",
+				"title": "Sale Deed",
+				"description": "The agreement between you and the other party should cover comprehensively the terms on which the sale will take place and the date on which the sale will be completed.",
+				"link": "/sale-deed"
+			},
+			{
+				"image": "noimage",
+				"title": "Rental Agreement",
+				"description": "The terms of the rental agreement bring clarity to the arrangement, such that the consideration, rights and obligations of both parties, and the rental term are established.",
+				"link": "/rent-and-lease-agreement"
+			},
+			{
+				"image": "noimage",
+				"title": "Make a Will",
+				"description": "A will allows you to communicate how your assets are to be distributed among those close to you after your death.",
+				"link": "/make-a-will"
+			},
+			{
+				"image": "noimage",
+				"title": "Service Level Agreement",
+				"description": "A formal document between a service provider and the user that provides a measurable framework for the provision of that service.",
+				"link": "/service-level-agreement"
+			},
+			{
+				"image": "noimage",
+				"title": "Master Service Agreement",
+				"description": "A contractual agreement in which two parties, a client and service provider, agree to terms and conditions that are to govern all transactions between them for the long-term.",
+				"link": "/master-service-agreement"
+			},
+			{
+				"image": "noimage",
+				"title": "Vendor Agreement",
+				"description": "A comprehensive agreement covering various aspects of a relationship with a vendor, including quality of goods supplied, duration of contract and mode of payment.",
+				"link": "/vendor-agreement"
+			},
+			{
+				"image": "noimage",
+				"title": "Terms of Service and Privacy Policy",
+				"description": "The terms are the conditions on which service is being delivered, while the privacy policy explains to users what will and will not be done with their information.",
+				"link": "/terms-of-service-privacy-policy"
+			},
+			{
+				"image": "noimage",
+				"title": "Disclaimer",
+				"description": "A statement/notice informing the user of any product or service of the possible consequences of the same.",
+				"link": "/disclaimer"
+			}
+		],
+		"tarsbotScript": "rkOo3E"
+	},
+	{
+		"url": "ngo",
+		"title": "NGO Registrations",
+		"name": "NGO",
+		"meta": {
+			"keyword": "NGO",
+			"description": "NGO Registration"
+		},
+		"contents": [
+			{
+				"desc": "To start and run an NGO, you need Registrar of Companies (ROC) approval. We will do a thorough consultation to find out what works best for you and create all the paperwork for you. No hassle! We are here to guide and support you at each stage to complete your NGO registration process in a smooth way."
+			}
+		],
+		"banner_url": "https://assets.vakilsearch.com/live-images/website_revamp/legal-and-compliance-bg.jpg",
+		"image": false,
+		"service_cards": [
+			{
+				"image": "noimage",
+				"title": "NGO",
+				"description": "NGO [Non-Governmental Organization] means any non-profit organization that works for a charitable cause. In India, an NGO can be set up as a Trust, a Society, or a Section 8 Company.",
+				"link": "/online-ngo-registration"
+			},
+			{
+				"image": "noimage",
+				"title": "Section 8",
+				"description": "For a Section 8 Company Registration, our team of experts will take care of every legal requirement and complete the process within the stipulated time frame.",
+				"link": "/online-section-8-company-registration"
+			},
+			{
+				"image": "noimage",
+				"title": "Trust Registration",
+				"description": "Trust Registration requires important documents like trust deed and rental agreement. Our service experts help you with the complete procedure for the formation of trust while taking care of all the legal intricacies.",
+				"link": "/online-trust-registration"
+			},
+			{
+				"image": "noimage",
+				"title": "Society Registration",
+				"description": "Registration of society is required to promote the fine arts, science, literature, or knowledge sharing for a purposeful matter or for charity.",
+				"link": "/online-society-registration"
+			}
+		],
+		"tarsbotScript": "rkOo3E"
+	},
+	{
+		"url": "property-and-personal",
+		"title": "Property and Personal",
+		"name": "Property and Personal",
+		"meta": {
+			"keyword": "tax registration online, tax filings online, government registration online, vat registration, service tax registration, importer exporter code, professional tax registration.",
+			"description": "Be it a property registration, marriage registration, name change and so forth, do it the right way. Vakilsearch lays out the best legal assistance for you."
+		},
+		"contents": [
+			{
+				"desc": "In India, investment in immovable property is considered as a great way to build long-term wealth. But what’s most important is making your purchase legally right with the well-drafted documents considering the nature of the transaction."
+			},
+			{
+				"desc": "Are you planning to change your name or religion? Or Want to register your marriage? Get everything legally notified with the help of our expert service."
+			}
+		],
+		"banner_url": "https://assets.vakilsearch.com/live-images/website_revamp/tax-registration-bg.jpg",
+		"image": false,
+		"service_cards": [
+			{
+				"image": "noimage",
+				"title": "Name Change",
+				"description": "Name change involves just three steps. Out of that, the most important one is Gazette Publication. It ensures your name is changed on the National Gazette and the copy is mandatory to change your name in all the important documents.",
+				"link": "/online-name-change"
+			},
+			{
+				"image": "noimage",
+				"title": "Caveat Petition",
+				"description": "A caveat petition is filed in the court as a prudent measure which is initiated by people usually when they are having a very strong belief that some case is going to affect their interest in any manner.",
+				"link": "/caveat-petition"
+			},
+			{
+				"image": "noimage",
+				"title": "Will Probate",
+				"description": "In legal terms, probate is the legal process by which a will is validated by the court as the last will of a deceased testator. It helps protect small estates, gives direction to cases where there is no will in place so that the right beneficiary gets the testator’s inheritance.",
+				"link": "/probate-of-will"
+			},
+			{
+				"image": "noimage",
+				"title": "Make a Will",
+				"description": "A will allows you to communicate how your assets are to be distributed among those close to you after your death. It eases the transition of the assets and avoids any disputes among your loved ones.",
+				"link": "/make-a-will"
+			},
+			{
+				"image": "noimage",
+				"title": "Caste Certificate",
+				"description": "A Caste Certificate is the proof of one's belonging to a particular caste as specified in the Indian Constitution. To procure caste certificate, you need only simple details like birth certificate, ID proof, details of local reference, Declaration, and other personal details.",
+				"link": "/caste-certificate"
+			},
+			{
+				"image": "noimage",
+				"title": "Public Interest Litigation",
+				"description": "Public Interest Litigation (PIL) is directly filed by an individual or group of people in a court of law for the enforcement of public interest in which the public or class of the community have pecuniary interest or some interest by which their legal rights or liabilities are affected. A PIL is filed in the same manner as a writ petition is filed either in the Supreme Court.",
+				"link": "/public-interest-litigation"
+			},
+			{
+				"image": "noimage",
+				"title": "Conjugal Rights",
+				"description": "Restitution of conjugal rights is a petition filed by a husband or wife as a remedy to restore their rights to cohabiting with the other spouse. It involves the drafting of the application and filing it in the concerned civil court. The advocate will also be appearing on your behalf in all the hearings of your petition.",
+				"link": "/restitution-of-conjugal-rights"
+			},
+			{
+				"image": "noimage",
+				"title": "Consumer Complaint",
+				"description": "A consumer complaint is a written protest against a person or a company for offering poor goods and services. For example, if a person buys a product and it turns out to be faulty, he or she can file a consumer complaint with the Consumer Complaints Redressal Council.",
+				"link": "/consumer-complaints"
+			},
+			{
+				"image": "noimage",
+				"title": "Money Recovery",
+				"description": "Collecting bad debts and outstanding receivables, or dealing with bounced cheques can cause distress. Your money can be recovered through our team of expert debt collection attorneys and financial professionals who can provide tailor-made solutions to recover what is rightfully yours.",
+				"link": "/money-recovery-india"
+			},
+			{
+				"image": "noimage",
+				"title": "Gender Change",
+				"description": "The freedom to choose one’s gender is a legal right granted to every Indian citizen, irrespective of caste and creed. Gender change has to be officially notified to the weekly Gazette, published by the Department of Publication, Government of India.",
+				"link": "/gender-change"
+			},
+			{
+				"image": "noimage",
+				"title": "Religion Change",
+				"description": "In India, Freedom of Religion is one of the fundamental rights guaranteed by the constitution. India is a secular country where changing religion is legal and anyone can practice and propagate their religion without any restrictions.",
+				"link": "/religion-change"
+			},
+			{
+				"image": "noimage",
+				"title": "Marriage Registration",
+				"description": "In India, Marriages can be registered either under the Hindu Marriage Act, 1955 or under the Special Marriage Act, 1954. It is legal proof you are married and the most vital document. The marriage registration procedure can be made simple with the help of expert lawyers.",
+				"link": "/marriage-registration"
+			},
+			{
+				"image": "noimage",
+				"title": "Court Marriage",
+				"description": "In India, court marriages are solemnized by the Marriage Act of 1954. Under the law, court marriage is legal only when the bride and the groom are above 18 and 21 years of age. The parties can be of Indian or foreign descent. It is performed by the Marriage Registrar and upon completion; the participants are given a marriage certificate stating that their union is legal in the eyes of the law.",
+				"link": "/court-marriage"
+			},
+			{
+				"image": "noimage",
+				"title": "Property Registration",
+				"description": "There is no underestimating this document, given the large sums involved in property deals. This agreement will cover comprehensively the terms on which the sale will take place. Once this document is signed and executed, it needs to be stamped (and the duty needs to be paid). Together, this constitutes the property registration process.",
+				"link": "/property-registration"
+			},
+			{
+				"image": "noimage",
+				"title": "Property Verification",
+				"description": "Whether you’re buying an under-construction property or a ready-to-move-in property. It’s prerequisite to verify all the documents before making any financial commitment, defective documents or absence of any particular document could cause a burden for the buyer.",
+				"link": "/property-verification"
+			},
+			{
+				"image": "noimage",
+				"title": "Succession certificate:",
+				"description": "Succession Certificate is a certificate granted by Civil Courts in India to the legal heirs of a person dying intestate (without a will). It certifies the rightful person to be the successor of such deceased person. It entitles the holder to make payment of a debt or transfer securities to the holder of the certificate.­",
+				"link": "/succession-certificate"
+			},
+			{
+				"image": "noimage",
+				"title": "Legal Heir Certificate:",
+				"description": "Legal Heir certificate is a key document that identifies/ authenticate the relationship between the heir and the deceased person. This certificate can be used to claim ownership of the assets and other resources.",
+				"link": "/legal-heir-certificate"
+			},
+			{
+				"image": "noimage",
+				"title": "Gift Deed:",
+				"description": "A gift deed is a legal document that validates the voluntary transfer of gift of material or property from the lawful owner (donor) to the receiver of gift (donee) without any exchange of money.",
+				"link": "/gift-deed"
+			},
+			{
+				"image": "noimage",
+				"title": "Sale Deed:",
+				"description": "A sale deed is a legal instrument which is executed between the seller and the buyer which outlines the terms and conditions of the sale. There are numerous advantages in having a sale deed, protects both the parties from legal risk & clear definition of area and location.",
+				"link": "/sale-deed"
+			},
+			{
+				"image": "noimage",
+				"title": "Residential Rental Agreement:",
+				"description": "Rent agreement is a legal document meant to establish a transparent transaction between landlord and tenant. It is usually signed on payment of a deposit for the rental property.",
+				"link": "/rent-and-lease-agreement"
+			},
+			{
+				"image": "noimage",
+				"title": "Relinquishment Deed:",
+				"description": "A legal document where a person gives up or releases his legal rights in an inherited/ joint property in favour of other co-owners. And, relinquishment cannot be done in the name of any third person other than the already existing co-owner.",
+				"link": "/relinquishment-deed"
+			},
+			{
+				"image": "noimage",
+				"title": "Corporate Immigration:",
+				"description": "Our corporate immigration service will help you to manage your talent pool and expand your business. We provide assistance in immigration advisory service which will help you to competently sponsor your employees on work visas.",
+				"link": "/corporate-immigration"
+			},
+			{
+				"image": "noimage",
+				"title": "Family Immigration:",
+				"description": "Family-based immigration requires a US citizen or permanent resident sponsor a foreign national relative and prove he/she can support the intended immigrant by showing adequate income or assets.",
+				"link": "/family-immigration"
+			}
+		],
+		"tarsbotScript": "rkOo3E"
+	},
+	{
+		"url": "mandatory-compliances",
+		"title": "Mandatory Compliances",
+		"name": "Mandatory Compliances",
+		"meta": {
+			"keyword": "annual compliances for companies, annual filings for companies, adding a director online, close your company online",
+			"description": "Get your business legal and annual compliance done online. Compliance can be completed easily online at lowest cost. ✓EMI available."
+		},
+		"contents": [
+			{
+				"desc": "All body corporates, such as private limited companies and limited liability partnerships, must receive permission from the Registrar of Companies before making important changes and periodically communicate financial results."
+			}
+		],
+		"banner_url": "https://assets.vakilsearch.com/live-images/website_revamp/legal-and-compliance-bg.jpg",
+		"image": false,
+		"service_cards": [
+			{
+				"image": "noimage",
+				"title": "Annual Compliances for PVT",
+				"description": "Fulfill all the compliance requirements of your private limited company every year the most convenient way possible – online.",
+				"link": "/company-maintenance-package"
+			},
+			{
+				"image": "noimage",
+				"title": "Annual Filings for LLP",
+				"description": "LLPs need only file their returns on an annual basis, but failure to do so can be very costly.",
+				"link": "/llp-annual-filings"
+			},
+			{
+				"image": "noimage",
+				"title": "Increase in Authorised Capital",
+				"description": "To do this, you need to have the capital clause of the Memorandum of Association amended by passing a special resolution of the board.",
+				"link": "/increase-in-authorized-capital"
+			},
+			{
+				"image": "noimage",
+				"title": "Adding a Director",
+				"description": "To add a director, the person appointed must be eligible as per the Articles of Association and give his consent in writing.",
+				"link": "/appointment-of-a-director"
+			},
+			{
+				"image": "noimage",
+				"title": "Adding a Designated Partner",
+				"description": "Every limited liability partnership must have at least two designated partners.",
+				"link": "/adding-a-designated-partner"
+			},
+			{
+				"image": "noimage",
+				"title": "Change in Name & Objectives",
+				"description": "To get this approved quickly, you need to be very clear when you amend to objects clause of the Memorandum of Association.",
+				"link": "/change-the-objectives-of-your-business"
+			},
+			{
+				"image": "noimage",
+				"title": "Change in Registered Office Address",
+				"description": "Depending on where you're moving to, you may need to simply pass a resolution or place an advertisement in a newspaper on the move.",
+				"link": "/change-the-official-address-of-your-business-within-the-city"
+			},
+			{
+				"image": "noimage",
+				"title": "Change in Company Name",
+				"description": "As you've already incorporated, you should be aware of the rules involved in selecting a name for your company.",
+				"link": "/change-your-company-name"
+			},
+			{
+				"image": "noimage",
+				"title": "Change in LLP Agreement",
+				"description": "Altering the agreement is straightforward. You need to do pass a resolution approving the revision and then file Form 3 with the Registrar within 30 days.",
+				"link": "/change-llp-agreement"
+			},
+			{
+				"image": "noimage",
+				"title": "Maintain your Accounts",
+				"description": "The weekly and monthly reports generated by us will make it seem like you have an in-house accounts team.",
+				"link": "/accounting-bookkeeping-services"
+			},
+			{
+				"image": "noimage",
+				"title": "Close your Private Limited Company",
+				"description": "A tedious, but very necessary, procedure that can even take over a year to complete.",
+				"link": "/close-your-private-limited-company"
+			},
+			{
+				"image": "noimage",
+				"title": "Closing a Limited Liability Partnership",
+				"description": "Closing an LLP can take up to two months, provided the partners are quick to complete the many procedures required.",
+				"link": "/close-your-limited-liability-partnership"
+			},
+			{
+				"image": "noimage",
+				"title": "Partnership to LLP",
+				"description": "A Limited Liability Partnership is a much more advanced business vehicle than a regular partnership.",
+				"link": "/convert-your-partnership-into-an-llp"
+			},
+			{
+				"image": "noimage",
+				"title": "ESOP's",
+				"description": "Build an ESOP for your employees and decide the vesting period for their shares and the price at which they can choose to buy in.",
+				"link": "/esop"
+			},
+			{
+				"image": "noimage",
+				"title": "Convert a Private to Public Limited Company",
+				"description": "A fairly straightforward process, but do remember that you need three directors, seven shareholders and a paid-up capital of at least Rs. 5 lakh.",
+				"link": "/convert-your-private-limited-company-into-a-public-limited-company"
+			},
+			{
+				"image": "noimage",
+				"title": "Convert a Sole Proprietorship to Private Limited Company",
+				"description": "All you need to do is go ahead and start a private limited company and submit an agreement between the sole proprietor and the private limited company, declaring that all the assets are to be transferred to the latter.",
+				"link": "/convert-your-sole-proprietorship-into-a-private-limited-company"
+			},
+			{
+				"image": "noimage",
+				"title": "Convert a Private Limited Company to an OPC",
+				"description": "A private limited company can convert itself into an OPC if it has a paid-up capital ofless than Rs. 50 lakh and an annual turnover of less than Rs. 2 crore.",
+				"link": "/convert-plc-to-opc"
+			}
+		],
+		"tarsbotScript": "rkOo3E"
+	},
+	{
+		"url": "property-transactions",
+		"title": "Personal and Property – Vakilsearch.com ",
+		"name": "All Your Property Needs",
+		"meta": {
+			"keyword": "make a will, gift deed, property registration",
+			"description": "Personal and Property"
+		},
+		"contents": [
+			{
+				"desc": "We have made property transactions simple for you - whether you are buying or selling property, gifting your property, or are inheriting property, get expert guidance from and documents drafted by experienced property lawyers and registration done (if required), in a hassle-free manner."
+			}
+		],
+		"banner_url": "https://assets.vakilsearch.com/live-images/website_revamp/start-a-business-bg.jpg",
+		"image": true,
+		"text": "Vakilsearch offers great combinations of essential legal services for Indian businesses at unbeatable prices.Get started today!",
+		"service_cards": [
+			{
+				"image": "property-transactions-01.png",
+				"title": "Property Ownership Check",
+				"description": "Verify the property documents to check the defects in ownership before investing your hard-earned money.",
+				"items": [
+					"Free Consultation with a property expert",
+					"Collecting of documents from you",
+					"Generate documents from Sub-Registrar office (if required)",
+					"Written Opinion on an Advocate’s Letterhead"
+				],
+				"amount": " 2,999 onwards",
+				"link": "/property-registration"
+			},
+			{
+				"image": "property-transactions-02.jpg",
+				"title": "Purchase / Sale of Property",
+				"description": "Get legal assistance from an expert advocate for a hassle-free buying or selling of property.",
+				"items": [
+					"Free consultation with Property lawyers",
+					"Drafting of Agreement to Sell",
+					"Drafting of Sale deed",
+					"Stress free Registration"
+				],
+				"amount": "3,999 onwards",
+				"link": "/sale-deed"
+			},
+			{
+				"image": "property-transactions-03.jpg",
+				"title": "Gift your Property",
+				"description": "You can now gift your property without any legal hassle.",
+				"items": [
+					"Guidance on the legality and stamp duty of the gift deed",
+					"Drafting the Gift deed",
+					"Stress free Registration"
+				],
+				"amount": "3,999 onwards",
+				"link": "/gift-deed"
+			},
+			{
+				"image": "property-transactions-04.jpg",
+				"title": "Lease / Rent your Property",
+				"description": "We ensure all your rights are protected by your deed.",
+				"items": [
+					"Free Legal Consultation",
+					"Drafting of the Lease Deed/ Rental Agreement",
+					"Registration (if necessary)"
+				],
+				"amount": " 499 onwards",
+				"link": "/rent-and-lease-agreement"
+			},
+			{
+				"image": "property-transactions-05.jpg",
+				"title": "Will",
+				"description": "Drafting of your Will made easy.",
+				"items": [
+					"Free Legal Consultation",
+					"Drafting your Will by an expert",
+					"Registration of Will (if required)"
+				],
+				"amount": " 1,999 onwards",
+				"link": "/make-a-will"
+			},
+			{
+				"image": "property-transactions-06.jpg",
+				"title": "Succession Certificate / Legal Heir Certificate",
+				"description": "Apply for Succession Certificate or Legal Heir Certificate to transfer the property of your deceased family member to appropriate heirs.",
+				"items": [
+					"Free Legal Consultation from an expert Advocate",
+					"Collection of Documents",
+					"Filing of Petition in the Court/ Revenue Office",
+					"Hassle Free process and updates"
+				],
+				"amount": "4,999 onwards",
+				"link": "/succession-certificate"
+			}
+		]
+	}
+]

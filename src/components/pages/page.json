@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_pages_pages",
+  "info": {
+    "displayName": "page",
+    "icon": "angry"
+  },
+  "options": {},
+  "attributes": {
+    "testBoolean": {
+      "type": "boolean"
+    }
+  }
+}
